@@ -13,5 +13,5 @@ main()
 	{
 		len++;
 	}
-	printf("len of name : %d",*ptr);
+	printf("len of name : %d",*ptr)
 }
